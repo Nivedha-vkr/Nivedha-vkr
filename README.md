@@ -30,4 +30,6 @@ I enjoy building systems that analyze data, solve real problems, and improve eff
 - I enjoy solving problems more than designing UIs
 - Strong in Arrays, currently negotiating with Dynamic Programming
 - I like building things that actually *do something*, not just look good
+
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/vnivedha?theme=dark&font=Rambla&ext=heatmap)
   
