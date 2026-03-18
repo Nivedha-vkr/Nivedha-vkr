@@ -16,12 +16,12 @@ I enjoy building systems that analyze data, solve real problems, and improve eff
 - Core: Data Structures & Problem Solving
   
 ## 📈 Current Focus
-- Data structures & problem solving - leetcode://vnivedha
+- Data structures & problem solving - [leetcode://vnivedha]
 - Backend development
 - Building real-world projects
 
 ## 📫 Connect with me
-- LinkedIn: Linkedin://nivedha-v
+- LinkedIn: [Linkedin://nivedha-v]
 - Email: nivedhacsgcwk@gmail.com
 
 ## 🤓 A few things about me
