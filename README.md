@@ -21,7 +21,7 @@ I enjoy building systems that analyze data, solve real problems, and improve eff
 - Building real-world projects
 
 ## 📫 Connect with me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nivedha-v/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nivedha-v-/)
 - 📧 [Email](mailto:nivedhacsgcwk@gmail.com)
 - 💻 [LeetCode](https://leetcode.com/vnivedha/)
 
