@@ -21,9 +21,9 @@ I enjoy building systems that analyze data, solve real problems, and improve eff
 - Building real-world projects
 
 ## 📫 Connect with me
-- [LinkedIn] (Linkedin://nivedha-v)
-- [Email] (nivedhacsgcwk@gmail.com)
-- [Leetcode]  (leetcode://vnivedha)
+- [LinkedIn](Linkedin://nivedha-v)
+- [Email](nivedhacsgcwk@gmail.com)
+- [Leetcode](leetcode://vnivedha)
 
 ## 🤓 A few things about me
 - I debug more than I code (working on changing that 😄)
