@@ -5,9 +5,7 @@ Final year student focused on Backend Development and Problem Solving.
 I enjoy building systems that analyze data, solve real problems, and improve efficiency. Currently working on a LeetCode Pattern Analyzer to understand problem-solving patterns and suggest improvements.
 
 ## 🚀 Projects
-- LeetCode Pattern Analyzer (in progress)
-- Smart Bus Tracking & Crowd Detection System
-- LinkLite - URL Shortening & Analytics Service (in progress)
+- In progress
 
 ## 🛠 Tech Stack
 - Backend: Python (Flask/FastAPI), REST APIs  
